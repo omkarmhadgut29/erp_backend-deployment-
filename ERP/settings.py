@@ -7,7 +7,7 @@ SECRET_KEY = 'django-insecure-$2_uz(58=1*v-g2$ky+7l@3@e0ngt-j*xwv))g-mqjyjx$jdlq
 
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["django-erp.herokuapp.com", "127.0.0.1"]
 
 INSTALLED_APPS = [
     'django.contrib.admin',
